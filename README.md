@@ -8,16 +8,16 @@ The project is about making an Annual Marketing Campaigns Effectiveness Report f
 
 ## 📂 Dataset 
 
-The dataset used is the [Marketing Campaign Performance Dataset](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset/data), which includes data for 4 companies, and out of them, we focused the analysis on the 'Alpha_Innovations_Dataset.xlsx'. 
+The dataset used is the [Marketing Campaign Performance Dataset](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset/data), which includes data for 4 companies, and out of them, we focused the analysis on the `Alpha_Innovations_Dataset.xlsx`. 
 
 📌 ***Please keep in mind that, the dataset used in this analysis is fictional but representative of real-world marketing campaign data.***
 
 ## ⚙️ Prerequisites 
 
-Before running the code, you need to set up the required environment. All necessary dependencies are listed in the 'final_project_environment.yml' file provided in this repository.
+Before running the code, you need to set up the required environment. All necessary dependencies are listed in the `final_project_environment.yml` file provided in this repository.
 To set up the environment:
 Ensure [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) is installed on your system.
-Use the 'final_project_environment.yml' file (located in the root of this repository) to create and activate the environment.
+Use the `final_project_environment.yml` file (located in the root of this repository) to create and activate the environment.
 
 ## 🔄  Data Preparation 
 
