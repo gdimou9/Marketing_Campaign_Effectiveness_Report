@@ -2,7 +2,7 @@
 
 ## 📝 Overview
 
-This is the final project of the Data Analytics Bootcamp at Big Blue Data Academy. For this project we were in teams of 2 people, in this case, the project is made from [Anna Syrigonaki](https://www.linkedin.com/in/anna-syrigonaki/) and [George Dimou](https://www.linkedin.com/in/georgedimou/). 
+This is the final project of the Data Analytics Bootcamp at [Big Blue Data Academy](https://bigblue.academy/en). For this project we were in teams of 2 people, in this case, the project is made from [Anna Syrigonaki](https://www.linkedin.com/in/anna-syrigonaki/) and [George Dimou](https://www.linkedin.com/in/georgedimou/). 
 
 The project is about making an Annual Marketing Campaigns Effectiveness Report for a company that started operating in the US Market. The story around the company is fictional however, the data are from an actual dataset found in Kaggle. 
 
