@@ -30,7 +30,7 @@ The name used and the dataset are not related and are used only for fiction purp
 We decided to categorize and analyze the following:
 - Audience Segmentation (Age and Gender groups)
 - Performance of Audience Groups
-- Advertising Performance for each Channel, 
+- Advertising Performance for each Channel  
 - Performance for each Campaign Type
 - Customer Segmentations
 - Targeted Locations
@@ -41,7 +41,7 @@ To conclude, we summarized the most important points and provided a few recommen
 The above-mentioned analysis was from the scope of Return on Ad Spend (ROAS) and Click Through Rate (CTR). 
 
 
-## 🛠️Tools 
+## 🛠️ Tools 
 
 The analysis was done in Jupyter Notebook, the graphics were made in PowerBI and the presentation through Canva. 
 
